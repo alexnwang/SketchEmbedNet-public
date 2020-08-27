@@ -1,4 +1,3 @@
-# SketchEmbedNet-public
-SketchEmbedNet: Learning Novel Concepts by Imitating Drawings
+# SketchEmbedNet: Learning Novel Concepts by Imitating Drawings
 
 Coming soon...
